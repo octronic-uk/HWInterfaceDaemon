@@ -1,0 +1,30 @@
+{
+	"switches": 
+	[
+		{
+			"name": "Switch 1",
+			"switch_pin": 26	
+		},
+		{
+			"name": "Switch 2",
+			"switch_pin": 19	
+		},
+		{
+			"name": "Switch 3",
+			"switch_pin": 13	
+		},
+		{
+			"name": "Switch 4",
+			"switch_pin": 6	
+		}
+	],
+	"encoders": 
+	[
+		{
+			"name": "Big Red Knob",
+			"clock_pin": 17,
+			"data_pin": 27,
+			"switch_pin": 22 
+		}
+	]
+}
